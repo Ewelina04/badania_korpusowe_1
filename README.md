@@ -1,2 +1,2 @@
 # Text Classification
-Building simple binary classifier usisng scikit-learn and SpaCy 
+Binary classifier using python scikit-learn and SpaCy. Classification of news headlines/articles into 2 sport disciplines: boxing and football
